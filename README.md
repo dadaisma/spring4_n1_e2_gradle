@@ -83,3 +83,24 @@ You will have to answer to:
 
 http://localhost:9001/HelloWorld2
 http://localhost:9001/HelloWorld2/myname
+
+
+Useful links:
+RequestParam:
+
+->https://www.baeldung.com/spring-request-param
+
+
+PathVariable:
+
+->https://www.baeldung.com/spring-optional-path-variables
+
+
+Diferències RequestParam i PathVariable:
+
+->https://www.baeldung.com/spring-requestparam-vs-pathvariable
+
+
+Diferències entre Maven i Gradle
+
+->https://www.chakray.com/es/gradle-vs-maven-definiciones-diferencias/ ->https://programmerclick.com/article/47131530173/
